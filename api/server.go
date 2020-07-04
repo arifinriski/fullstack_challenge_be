@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/arifinriski/fullstack_challenge_be/controllers"
-	"github.com/arifinriski/fullstack_challenge_be/seed"
+	"github.com/arifinriski/fullstack_challenge_be/api/controllers"
+	"github.com/arifinriski/fullstack_challenge_be/api/seed"
 	"github.com/joho/godotenv"
 )
 
